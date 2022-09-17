@@ -1,3 +1,6 @@
 .bodyFormat {
     padding: 10rem;
+    align-items: center;
+    margin: auto;
+    background-color: rgb(0, 0, 94);
 }
